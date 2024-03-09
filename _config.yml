@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Rohan's Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Rohan Thorat"
 description              : &description "personal description"
 url                      : https://rohan0497.github.io/matrix-Rohan.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -21,14 +21,14 @@ repository               : "https://Rohan0497/rohan0497.github.io/matrix-Rohan.g
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "Grad.jpg"
+  name             : "Rohan Thorat"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Machine Learning Engineer"
+  location         : "London, UK"
+  employer         : "Queen Mary University of London"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "rohanthorat28@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile

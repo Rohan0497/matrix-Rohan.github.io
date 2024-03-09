@@ -8,17 +8,34 @@ redirect_from:
 ---
 
 
-A highly skilled and accomplished professional with a Master's degree in Artificial Intelligence from Queen Mary University London and over four years of experience as a System Engineer.
-
-Possess a diverse skill set encompassing Data Science, Machine Learning, Deep Learning, Computer Vision, and a wide range of programming languages and technologies, including Python, NumPy, Pandas, Scikit-Learn, TensorFlow, PyTorch, SQL, and MATLAB.
-
-Proven ability to thrive in fast-paced environments with tight deadlines, honed through professional experience at Tata Consultancy Services Ltd, where I:
-Spearheaded the successful implementation of Microsoft Windows Azure Infrastructure as a Service, creating robust cloud infrastructures.
-Identified and remediated vulnerabilities, ensuring secure and compliant environments.
-Effectively managed and mentored a team of professionals, fostering a collaborative and productive work environment.
 
 
-Committed to continuous learning and professional development, actively participating in conferences, workshops, and certifications related to Artificial Intelligence, Data Science, and Machine Learning. 
+• I'm a passionate Machine Learning and Artificial Intelligence enthusiast driven by an  curiosity and a relentless pursuit of knowledge.
 
-Excellent communication and interpersonal skills, enabling effective collaboration and stakeholder engagement.
+• I hold a Master's degree in Artificial Intelligence with a Distinction from Queen Mary University London and over four years of experience as a System Engineer.
+
+•  My research interests are in Deep Learning and Computer Vision.
+
+• I'm proficient in  Machine Learning, Deep Learning, Computer Vision, and programming languages/technologies including Python,SQL, MATLAB,PyTorch and ML libraries like NumPy, Pandas, Scikit-Learn, OpenCV, seaborn.
+
+• Masters Thesis:
+    Conducted research on Transfer learning for car parking detection using SSD, achieving 20% accuracy improvement while prioritizing efficiency and sustainability.
+
+
+• Thrived in fast-paced environments at Tata Consultancy Services Ltd:
+    - Spearheaded implementation of robust cloud infrastructures using Microsoft Azure.
+    - Identified and remediated vulnerabilities, ensuring secure and compliant environments.
+    - Effectively managed and mentored a team, fostering a collaborative and productive culture.
+
+
+
+
+Interests:
+• Exploring latest advancements in ML and Deep Learning techniques.
+• Attending industry events and meetups to engage with the AI/ML community.
+• Staying informed about ethical implications and responsible development of AI technologies.
+
+
+
+• Driven by a passion for innovation, delivering exceptional results, and a strong focus on sustainability and customer-centric solutions.
 

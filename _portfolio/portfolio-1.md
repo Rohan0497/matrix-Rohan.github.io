@@ -4,4 +4,4 @@ title: "Transfer Learning for Car Parking Detection"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+I  developed a car parking detection system using the SSD object detection algorithm. I employed k-means clustering for bounding box generation and multi-resolution training. The code for this project can be found <a href="https://github.com/Rohan0497/Transfer-Learning-for-Car-Parking-Detection">here</a>. I also wrote a research paper for this project . You can find it <a href="https://drive.google.com/file/d/1vs5TSFDVofV6P6d14lZAPZDdLo0Ym6A2/view">here</a>

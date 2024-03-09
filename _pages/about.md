@@ -20,7 +20,7 @@ redirect_from:
 
 
 
-👨‍💻 Thrived in fast-paced environments at Tata Consultancy Services Ltd:
+👨‍💻 Professional Experience at Tata Consultancy Services Ltd:
 
 •	Spearheaded implementation of robust cloud infrastructures using Microsoft Azure.
 

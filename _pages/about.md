@@ -14,9 +14,9 @@ redirect_from:
 
 📚 I hold a Master's degree in Artificial Intelligence with a Distinction from Queen Mary University London and over four years of experience as a System Engineer.
 
-🔬  My research interests are in Deep Learning and Computer Vision.
+🔬 My research interests are in Deep Learning and Computer Vision.
 
-• I'm proficient in  Machine Learning, Deep Learning, Computer Vision, and programming languages/technologies including Python,SQL, MATLAB,PyTorch and ML libraries like NumPy, Pandas, Scikit-Learn, OpenCV, seaborn.
+💡 I'm proficient in  Machine Learning, Deep Learning, Computer Vision, and programming languages/technologies including Python, SQL, MATLAB, PyTorch and ML libraries like NumPy, Pandas, Scikit-Learn, OpenCV, seaborn.
 
 
 

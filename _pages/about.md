@@ -18,17 +18,16 @@ redirect_from:
 
 • I'm proficient in  Machine Learning, Deep Learning, Computer Vision, and programming languages/technologies including Python,SQL, MATLAB,PyTorch and ML libraries like NumPy, Pandas, Scikit-Learn, OpenCV, seaborn.
 
-• Masters Thesis:
-    Conducted research on Transfer learning for car parking detection using SSD, achieving 20% accuracy improvement while prioritizing efficiency and sustainability.
 
 
 👨‍💻 Thrived in fast-paced environments at Tata Consultancy Services Ltd:
 
-    - Spearheaded implementation of robust cloud infrastructures using Microsoft Azure.
+•	Spearheaded implementation of robust cloud infrastructures using Microsoft Azure.
 
-    - Identified and remediated vulnerabilities, ensuring secure and compliant environments.
+•	Identified and remediated vulnerabilities, ensuring secure and compliant environments.
 
-    - Effectively managed and mentored a team, fostering a collaborative and productive culture.
+•	Effectively managed and mentored a team, fostering a collaborative and productive culture.
+
 
 
 

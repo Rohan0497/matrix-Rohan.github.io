@@ -19,8 +19,7 @@ redirect_from:
 💡 I'm proficient in  Machine Learning, Deep Learning, Computer Vision, and programming languages/technologies including Python, SQL, MATLAB, PyTorch and ML libraries like NumPy, Pandas, Scikit-Learn, OpenCV, seaborn.
 
 
-
-👨‍💻 "Professional Experience at Tata Consultancy Services Ltd:"
+##  👨‍💻 Professional Experience at Tata Consultancy Services Ltd:
 
 •	Spearheaded implementation of robust cloud infrastructures using Microsoft Azure.
 
@@ -32,7 +31,7 @@ redirect_from:
 
 
 
-Interests:
+##  Interests:
 
 • Exploring latest advancements in ML and Deep Learning techniques.
 

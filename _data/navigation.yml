@@ -7,8 +7,8 @@ main:
   - title: "CV"
     url: /files/Rohan_Thorat.pdf
 
-  # - title: "Publications"
-  #   url: /publications/
+  - title: "Paper Review"
+    url: /publications/
 
   # - title: "Talks"
   #   url: /talks/    

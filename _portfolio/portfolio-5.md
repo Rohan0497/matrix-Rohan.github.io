@@ -1,5 +1,5 @@
 ---
-title: "A Report on Ethics in AI"
+title: "Report on Ethics in AI"
 # excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---

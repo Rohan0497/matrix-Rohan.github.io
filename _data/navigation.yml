@@ -9,8 +9,8 @@ main:
 
 
 
-  # - title: "Paper Review"
-  #   url: /paper_review/
+  - title: "Paper Review"
+    url: /paper_review/
 
   # - title: "Publications"
   #   url: /publications/

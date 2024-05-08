@@ -12,8 +12,8 @@ main:
   # - title: "Paper Review"
   #   url: /paper_review/
 
-  - title: "Publications"
-    url: /publications/
+  # - title: "Publications"
+  #   url: /publications/
 
   # - title: "Talks"
   #   url: /talks/    
